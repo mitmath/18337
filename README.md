@@ -80,7 +80,7 @@ Final Project presentations : we may have some done by video and some in class
 Final Project reports due: May 11
 
 # Grading: 
-50% problem sets, 10% for the final project proposal, and 40% for the final project. Problem sets and final projects will be submitted electronically.
+25% problem sets,  25% quizzes,  10% for the final project proposal, and 40% for the final project. Problem sets and final projects will be submitted electronically.
 
 # HW
 |#| Notebook|
