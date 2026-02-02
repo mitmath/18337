@@ -1,4 +1,4 @@
-# 18.337J/6.338J: Parallel Computing and Scientific Machine Learning (Spring 2023)
+# 18.337J/6.338J: Parallel Computing and Scientific Machine Learning (Spring 2026)
 ## Professor Alan Edelman (and Philip the Corgi)
 ## MW 3:00 to 4:30 @ Room 2-190
 ## TA and Office hours: (To be confirmed)
