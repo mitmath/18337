@@ -47,16 +47,16 @@ Take a look at [MIT Engaging](https://engaging-ood.mit.edu:8443/auth/realms/enga
 | # | Date | Day | Comments | who gives live lecture? | topic |
 |---|---|---|---|---|---|
 | 1 | 2/2/2026 | Monday | | Chris | Intro to SciML, PINNs |
-| 2 | 2/4/2026 | Wednesday | | Chris | PINNs continued, Neural Operators? |
-| 3 | 2/9/2026 | Monday | | Chris? or Alan? | Writing fast single core code |
+| 2 | 2/4/2026 | Wednesday | | Chris | Forward mode automatic differentiation |
+| 3 | 2/9/2026 | Monday | | Alan | Writing fast single core code |
 | 4 | 2/11/2026 | Wednesday | | Alan | Single core code, continued |
 | | 2/16/2026 | Monday | Presidents' Day | | |
-| 5 | 2/17/2026 | Tuesday | Monday Schedule | Chris | Forward mode automatic differentiation |
-| 6 | 2/18/2026 | Wednesday | | Chris | Reverse mode automatic differentiation |
-| 7 | 2/23/2026 | Monday | | Chris | Adjoint methods |
-| 8 | 2/25/2026 | Wednesday | | Chris | Neural/Universal differential equations |
-| 9 | 3/2/2026 | Monday | | Chris | Differential Algebraic Equations |
-| 10 | 3/4/2026 | Wednesday | | | ? |
+| 5 | 2/17/2026 | Tuesday | Monday Schedule | Chris |  Reverse mode automatic differentiation |
+| 6 | 2/18/2026 | Wednesday | | Chris | Adjoint methods |
+| 7 | 2/23/2026 | Monday | | Chris | Neural/Universal differential equations |
+| 8 | 2/25/2026 | Wednesday | | Chris | Differential Algebraic Equations |
+| 9 | 3/2/2026 | Monday | | Chris | Machine Learning with Conservation Laws |
+| 10 | 3/4/2026 | Wednesday | | Chris | Make-up Day |
 | 11 | 3/9/2026 | Monday | | Alan | |
 | 12 | 3/11/2026 | Wednesday | | Alan | |
 | 13 | 3/16/2026 | Monday | | Alan | |
