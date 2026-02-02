@@ -34,6 +34,10 @@ A basic overview of the Julia programming environment for numerical computations
 
 If possible, try to install Julia on your laptop beforehand using the instructions at the above link.  Failing that, you can run Julia in the cloud (see instructions above).
 
+## Modelling (New for 2026)
+
+Scientists and Engineers build physics-based models of the world. As manufacturing resurges in America, engineers are increasingly resorting to model based design. Physical AI is reinventing product design. This includes Scientific AI methods that combine models with data, model autocompletion that provides the missing physics, Agentic AI systems that build physics based models, and compilers and solvers that not only leverage automatic differentiation, but are also redesigned to provide introspection to agents.
+
 | # | Date | Day | Comments | who gives live lecture? | topic |
 |---|---|---|---|---|---|
 | 1 | 2/2/2026 | Monday | | Chris | Intro to SciML, PINNs |
