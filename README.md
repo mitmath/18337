@@ -1,9 +1,9 @@
-# 18.337J/6.338J: Parallel Computing and Scientific Machine Learning (Spring 2026)
+# 18.337/6.7320: Parallel Computing, Scientific Machine Learning, and Modern Agentic Modelling (Spring 2026)
 ## Professor Alan Edelman (and Philip the Corgi), affiliate Professor Chris Rackauckas
 ## MW 2:30 to 4:00 @ Room 2-190 45-230 (before spring break), then switch to 32-123 (after spring break)
 ## TA and Office hours: (To be confirmed)
 ## [Piazza Link](https://piazza.com/mit/spring2026/18337)
-## [Canvas](https://canvas.mit.edu/courses/18760) will only be used for homework and project (+proposal) submission
+## [Canvas](https://canvas.mit.edu/courses/36022) will only be used for homework and project (+proposal) submission
 
 
 Note for 2026: We have a much higher enrollment than we have had in the past.  The below will have to
