@@ -5,8 +5,9 @@
 ## [Piazza Link](https://piazza.com/mit/spring2026/18337)
 ## [Canvas](https://canvas.mit.edu/courses/18760) will only be used for homework and project (+proposal) submission
 
-[//]: #  (## Classes are recorded and will be uploaded on canvas. Another great resource is Chris Rackauckas' videos of 2021 spring class. See [SciMLBook](https://book.sciml.ai/).)
-
+<!---
+(## Classes are recorded and will be uploaded on canvas. Another great resource is Chris Rackauckas' videos of 2021 spring class. See [SciMLBook](https://book.sciml.ai/).
+-->
 
 ## Julia:
 
