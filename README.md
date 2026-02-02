@@ -1,11 +1,11 @@
 # 18.337J/6.338J: Parallel Computing and Scientific Machine Learning (Spring 2026)
-## Professor Alan Edelman (and Philip the Corgi)
-## MW 3:00 to 4:30 @ Room 2-190
+## Professor Alan Edelman (and Philip the Corgi), affiliate Professor Chris Rackauckas
+## MW 2:30 to 4:00 @ Room 2-190 45-230 (before spring break), then switch to 32-123 (after spring break)
 ## TA and Office hours: (To be confirmed)
-## [Piazza Link](https://piazza.com/mit/spring2023/18337)
-## [Canvas](https://canvas.mit.edu/courses/18760) will only be used for homework and project (+proposal) submission + lecture videos
+## [Piazza Link](https://piazza.com/mit/spring2026/18337)
+## [Canvas](https://canvas.mit.edu/courses/18760) will only be used for homework and project (+proposal) submission
 
-## Classes are recorded and will be uploaded on canvas. Another great resource is Chris Rackauckas' videos of 2021 spring class. See [SciMLBook](https://book.sciml.ai/).
+[comment:] ## Classes are recorded and will be uploaded on canvas. Another great resource is Chris Rackauckas' videos of 2021 spring class. See [SciMLBook](https://book.sciml.ai/).
 
 
 ## Julia:
@@ -14,8 +14,8 @@
 
 * [Julia cheatsheets](https://computationalthinking.mit.edu/Spring21/cheatsheets/)
 
-* Julia tutorial by Steven Johnson Wed Feb 8
- *Optional* Julia Tutorial: Wed Feb 8 @ 5pm [via Zoom](https://mit.zoom.us/j/96829722642?pwd=TDhhME0wbmx0SG5RcnFOS3VScTA5Zz09)
+* Julia tutorial by Steven Johnson Fri Feb 6, 2026
+ *Optional* Julia Tutorial: Fri Feb 6 5-7pm
 
 * Virtually [via Zoom](https://mit.zoom.us/j/96829722642?pwd=TDhhME0wbmx0SG5RcnFOS3VScTA5Zz09).  Recording will be posted.
 
