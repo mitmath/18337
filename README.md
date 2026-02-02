@@ -5,6 +5,14 @@
 ## [Piazza Link](https://piazza.com/mit/spring2026/18337)
 ## [Canvas](https://canvas.mit.edu/courses/18760) will only be used for homework and project (+proposal) submission
 
+
+Note for 2026: We have a much higher enrollment than we have had in the past.  The below will have to
+be modified if the enrollment remains this high.   
+Below is what appeared in the 2023 class.
+We may not be able to get as many computing resources for everyone.
+Math does not usually have the same resources as Course 6, so we may not have as much TA support as we would
+hope to have.
+
 <!---
 (## Classes are recorded and will be uploaded on canvas. Another great resource is Chris Rackauckas' videos of 2021 spring class. See [SciMLBook](https://book.sciml.ai/).
 -->
@@ -26,17 +34,50 @@ A basic overview of the Julia programming environment for numerical computations
 
 If possible, try to install Julia on your laptop beforehand using the instructions at the above link.  Failing that, you can run Julia in the cloud (see instructions above).
 
+| # | Date | Day | Comments | who gives live lecture? | topic |
+|---|---|---|---|---|---|
+| 1 | 2/2/2026 | Monday | | Chris | Intro to SciML, PINNs |
+| 2 | 2/4/2026 | Wednesday | | Chris | PINNs continued, Neural Operators? |
+| 3 | 2/9/2026 | Monday | | Chris? or Alan? | Writing fast single core code |
+| 4 | 2/11/2026 | Wednesday | | Alan | Single core code, continued |
+| | 2/16/2026 | Monday | Presidents' Day | | |
+| 5 | 2/17/2026 | Tuesday | Monday Schedule | Chris | Forward mode automatic differentiation |
+| 6 | 2/18/2026 | Wednesday | | Chris | Reverse mode automatic differentiation |
+| 7 | 2/23/2026 | Monday | | Chris | Adjoint methods |
+| 8 | 2/25/2026 | Wednesday | | Chris | Neural/Universal differential equations |
+| 9 | 3/2/2026 | Monday | | Chris | Differential Algebraic Equations |
+| 10 | 3/4/2026 | Wednesday | | | ? |
+| 11 | 3/9/2026 | Monday | | Alan | |
+| 12 | 3/11/2026 | Wednesday | | Alan | |
+| 13 | 3/16/2026 | Monday | | Alan | |
+| 14 | 3/18/2026 | Wednesday | | Alan | |
+| | 3/23/2026 | Monday | Spring Break | | |
+| | 3/25/2026 | Wednesday | Spring Break | | |
+| 15 | 3/30/2026 | Monday | | Alan | |
+| 16 | 4/1/2026 | Wednesday | | Alan | |
+| 17 | 4/6/2026 | Monday | | Alan | |
+| 18 | 4/8/2026 | Wednesday | | Alan | |
+| 19 | 4/13/2026 | Monday | | Alan | |
+| 20 | 4/15/2026 | Wednesday | | Alan | |
+| | 4/20/2026 | Monday | Patriots Day | | |
+| 21 | 4/22/2026 | Wednesday | | Alan | |
+| 22 | 4/27/2026 | Monday | | Alan | |
+| 23 | 4/29/2026 | Wednesday | | Alan | |
+| 24 | 5/4/2026 | Monday | | Alan | |
+| 25 | 5/6/2026 | Wednesday | | Alan | |
+| 26 | 5/11/2026 | Monday | | Alan | |
+
 
 ## Announcement:
  
 There will be  homeworks, followed by the final project. 
 Everyone needs to present their work and submit a project report. 
 
-1-page Final Project proposal due : March 24 
+1-page Final Project proposal due : just before Spring Break
 
-Final Project presentations : April 26 to May 15
+Final Project presentations : we may have some done by video and some in class
 
-Final Project reports due: May 15
+Final Project reports due: May 11
 
 # Grading: 
 50% problem sets, 10% for the final project proposal, and 40% for the final project. Problem sets and final projects will be submitted electronically.
