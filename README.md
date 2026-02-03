@@ -23,8 +23,8 @@ hope to have.
 
 * [Julia cheatsheets](https://computationalthinking.mit.edu/Spring21/cheatsheets/)
 
-* Julia tutorial by Steven Johnson Fri Feb 6, 2026
- *Optional* Julia Tutorial: Fri Feb 6 5-7pm
+* Julia tutorial by Steven Johnson Fri Feb 6, 2026 Room  34-101
+ *Optional* Julia Tutorial: Fri Feb 6 5-7pm  Room 34-101
 
 * Virtually [via Zoom](https://mit.zoom.us/j/96829722642?pwd=TDhhME0wbmx0SG5RcnFOS3VScTA5Zz09).  Recording will be posted.
 
