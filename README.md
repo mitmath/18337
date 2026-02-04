@@ -46,8 +46,8 @@ Take a look at [MIT Engaging](https://engaging-ood.mit.edu:8443/auth/realms/enga
 
 | # | Date | Day | Comments | who gives live lecture? | topic |
 |---|---|---|---|---|---|
-| 1 | 2/2/2026 | Monday | | Chris | Intro to SciML, PINNs |
-| 2 | 2/4/2026 | Wednesday | | Chris | Forward mode automatic differentiation |
+| 1 | 2/2/2026 | Monday | | Chris | [Intro to SciML, PINNs][3] |
+| 2 | 2/4/2026 | Wednesday | | Chris | [Forward mode automatic differentiation][8] |
 | 3 | 2/9/2026 | Monday | | Alan | Writing fast single core code |
 | 4 | 2/11/2026 | Wednesday | | Alan | Single core code, continued |
 | | 2/16/2026 | Monday | Presidents' Day | | |
