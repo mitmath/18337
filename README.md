@@ -94,7 +94,7 @@ Final Project reports due: May 11
 
 # HW
 |#| Due Date |
-|1| |
+|1| [PINNs](https://github.com/mitmath/18337/blob/master/18.337%20%202026%20homework%201.pdf)|
 
 
 # Lecture Schedule (Old: from 2023)
