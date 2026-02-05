@@ -93,8 +93,8 @@ Final Project reports due: May 11
 25% problem sets,  25% quizzes,  10% for the final project proposal, and 40% for the final project. Problem sets and final projects will be submitted electronically.
 
 # HW
-|#| Notebook|
-|-|-|
+|#| Due Date |
+|1| |
 
 
 # Lecture Schedule (Old: from 2023)
