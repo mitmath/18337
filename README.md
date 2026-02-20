@@ -93,8 +93,10 @@ Final Project reports due: May 11
 25% problem sets,  25% quizzes,  10% for the final project proposal, and 40% for the final project. Problem sets and final projects will be submitted electronically.
 
 # HW
-|#| Due Date |
+|#|HW| Due Date |
 |1| [PINNs](https://github.com/mitmath/18337/blob/master/18.337%20%202026%20homework%201.pdf)|
+|2| [Performance etc](https://github.com/mitmath/18337/blob/master/18.337%202026%20homework%202.md)|
+
 
 
 # Lecture Schedule (Old: from 2023)
