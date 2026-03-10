@@ -97,7 +97,7 @@ Final Project reports due: May 11
 |-|-|------|
 |1| [PINNs](https://github.com/mitmath/18337/blob/master/18.337%20%202026%20homework%201.pdf)| 2/11/2026 |
 |2| [Performance etc](https://github.com/mitmath/18337/blob/master/18.337%202026%20homework%202.md)|  Thurs 3/5/2026 ||
-|3| [Project Proposal & Adjoint Eqn ]| Friday 3/20/2026 ||
+|3| [Project Proposal & Adjoint Eqn ](https://github.com/mitmath/18337/blob/master/18.337%202026%20hw3.pdf) | Friday 3/20/2026 ||
 
 
 
