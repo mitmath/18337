@@ -57,8 +57,8 @@ Take a look at [MIT Engaging](https://engaging-ood.mit.edu:8443/auth/realms/enga
 | 8 | 2/25/2026 | Wednesday | | Chris | Differential Algebraic Equations |
 | 9 | 3/2/2026 | Monday | | Chris | Machine Learning with Conservation Laws |
 | 10 | 3/4/2026 | Wednesday | | Chris | Make-up Day |
-| 11 | 3/9/2026 | Monday | | Alan | |
-| 12 | 3/11/2026 | Wednesday | | Alan | |
+| 11 | 3/9/2026 | Monday | | Mike Tiller  | |
+| 12 | 3/11/2026 | Wednesday | | Mike Tiller| |
 | 13 | 3/16/2026 | Monday | | Alan | |
 | 14 | 3/18/2026 | Wednesday | | Alan | |
 | | 3/23/2026 | Monday | Spring Break | | |
@@ -90,7 +90,7 @@ Final Project presentations : we may have some done by video and some in class
 Final Project reports due: May 11
 
 # Grading: 
-25% problem sets,  25% quizzes,  10% for the final project proposal, and 40% for the final project. Problem sets and final projects will be submitted electronically.
+25% problem sets (approximately every two weeks or fewer),  25% quizzes (planned for every second wednesday probably a total of five or six in number),  10% for the final project proposal, and 40% for the final project. Problem sets and final projects will be submitted electronically.
 
 # HW
 |#|HW| Due Date |
