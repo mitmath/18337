@@ -59,11 +59,11 @@ Take a look at [MIT Engaging](https://engaging-ood.mit.edu:8443/auth/realms/enga
 | 10 | 3/4/2026 | Wednesday | | Chris | Make-up Day |
 | 11 | 3/9/2026 | Monday | | Mike Tiller  | |
 | 12 | 3/11/2026 | Wednesday | | Mike Tiller| |
-| 13 | 3/16/2026 | Monday | | Alan | |
-| 14 | 3/18/2026 | Wednesday | | Alan | |
+| 13 | 3/16/2026 | Monday | | Alan | Big Picture of Scientific Machine Learning |
+| 14 | 3/18/2026 | Wednesday | | Alan | Introduction to HPC |
 | | 3/23/2026 | Monday | Spring Break | | |
 | | 3/25/2026 | Wednesday | Spring Break | | |
-| 15 | 3/30/2026 | Monday | | Alan | |
+| 15 | 3/30/2026 | Monday | | Alan | Parallel Prefix [[prefix spring 2026.pptx]](https://github.com/mitmath/18337/blob/master/prefix%20%20spring%202026.pptx) [[prefixspring2026.jl]](https://github.com/mitmath/18337/blob/master/prefixspring2026.jl) |
 | 16 | 4/1/2026 | Wednesday | | Alan | |
 | 17 | 4/6/2026 | Monday | | Alan | |
 | 18 | 4/8/2026 | Wednesday | | Alan | |
@@ -72,10 +72,10 @@ Take a look at [MIT Engaging](https://engaging-ood.mit.edu:8443/auth/realms/enga
 | | 4/20/2026 | Monday | Patriots Day | | |
 | 21 | 4/22/2026 | Wednesday | | Alan | |
 | 22 | 4/27/2026 | Monday | | Alan | |
-| 23 | 4/29/2026 | Wednesday | | Alan | |
-| 24 | 5/4/2026 | Monday | | Alan | |
-| 25 | 5/6/2026 | Wednesday | | Alan | |
-| 26 | 5/11/2026 | Monday | | Alan | |
+| 23 | 4/29/2026 | Wednesday | | Class | Final Project Presentations|
+| 24 | 5/4/2026 | Monday | | Class | Final Project Presentations|
+| 25 | 5/6/2026 | Wednesday | | Class | Final Project Presentations|
+| 26 | 5/11/2026 | Monday | | Class |Final Project Presentations |
 
 
 ## Announcement:
