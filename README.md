@@ -63,8 +63,8 @@ Take a look at [MIT Engaging](https://engaging-ood.mit.edu:8443/auth/realms/enga
 | 14 | 3/18/2026 | Wednesday | | Alan | Introduction to HPC |
 | | 3/23/2026 | Monday | Spring Break | | |
 | | 3/25/2026 | Wednesday | Spring Break | | |
-| 15 | 3/30/2026 | Monday | | Alan | Parallel Prefix [[prefix spring 2026.pptx]](https://github.com/mitmath/18337/blob/master/prefix%20%20spring%202026.pptx) [[prefixspring2026.jl]](https://github.com/mitmath/18337/blob/master/prefixspring2026.jl) |
-| 16 | 4/1/2026 | Wednesday | | Alan | |
+| 15 | 3/30/2026 | Monday | | Alan | Parallel Prefix [prefix spring 2026.pptx](https://github.com/mitmath/18337/blob/master/prefix%20%20spring%202026.pptx) [prefixspring2026.jl](https://github.com/mitmath/18337/blob/master/prefixspring2026.jl) |
+| 16 | 4/1/2026 | Wednesday | | Alan and Collin | GPUs + KernelAbstractions Tutorial: [Markdown](https://github.com/cwittens/A_KernelAbstractions_Tutorial/blob/main/KA_Tutorial_Markdown.md) or [Jupyter Notebook](https://github.com/cwittens/A_KernelAbstractions_Tutorial/blob/main/KA_Tutorial_JupyterNotebook.ipynb) |
 | 17 | 4/6/2026 | Monday | | Alan | |
 | 18 | 4/8/2026 | Wednesday | | Alan | |
 | 19 | 4/13/2026 | Monday | | Alan | |
