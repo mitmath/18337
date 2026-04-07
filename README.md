@@ -71,7 +71,7 @@ Take a look at [MIT Engaging](https://engaging-ood.mit.edu:8443/auth/realms/enga
 | 20 | 4/15/2026 | Wednesday | | Alan | |
 | | 4/20/2026 | Monday | Patriots Day | | |
 | 21 | 4/22/2026 | Wednesday | | Alan | |
-| 22 | 4/27/2026 | Monday | | Alan | |
+| 22 | 4/27/2026 | Monday | | Class  |Final Project Presentations  |
 | 23 | 4/29/2026 | Wednesday | | Class | Final Project Presentations|
 | 24 | 5/4/2026 | Monday | | Class | Final Project Presentations|
 | 25 | 5/6/2026 | Wednesday | | Class | Final Project Presentations|
