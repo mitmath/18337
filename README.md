@@ -67,7 +67,7 @@ Take a look at [MIT Engaging](https://engaging-ood.mit.edu:8443/auth/realms/enga
 | 16 | 4/1/2026 | Wednesday | | Alan | Into to GPUS [[gpus2026.pptx]](https://github.com/mitmath/18337/blob/master/gpus2026.pptx) |
 | 17 | 4/6/2026 | Monday | | Alan | [Optimizing Serial Code](https://book.sciml.ai/notes/02-Optimizing_Serial_Code/) Types in Julia [[7_ptypes.jl]](https://github.com/mitmath/18337/blob/master/lecture%2017/7_ptypes.jl) [[html]](https://mitmath.github.io/18337/lecture17/7_ptypes.html) [Threading](https://mitmath.github.io/Parallel-Computing-Spoke/notebooks/ThreadingNotebook.html) [[handwritten notes]](https://github.com/mitmath/18337/blob/master/lecture4/lecture_4_handwritten_2023.pdf) [[Serial Performance .jl]](https://github.com/mitmath/18337/blob/master/lecture4/serial%20performance.jl) [[Loop Fusion Blog]](https://julialang.org/blog/2017/01/moredots/) |
 | 18 | 4/8/2026 | Wednesday | | Evelyne Ringoot | |
-| 19 | 4/13/2026 | Monday | | Alan | |
+| 19 | 4/13/2026 | Monday | | Alan | [Slides](https://docs.google.com/presentation/d/1PYBEPSc7uB0zpojgmQhY5bZTHzCevZ3cVfs_DSwaEfk/edit?usp=sharing) |
 | 20 | 4/15/2026 | Wednesday | | Alan | |
 | | 4/20/2026 | Monday | Patriots Day | | |
 | 21 | 4/22/2026 | Wednesday | | Tamiko Thiel  | |
